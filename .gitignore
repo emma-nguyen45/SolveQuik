@@ -1,6 +1,6 @@
-   CLAUDE.md
-   .claude/
-   .env
-   node_modules/
-   __pycache__/
-   .venv/
+CLAUDE.md
+.claude/
+.env
+node_modules/
+__pycache__/
+.venv/
